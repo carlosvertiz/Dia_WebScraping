@@ -1,5 +1,5 @@
 ## Description
-This code open Coto's web page and navegate over all categories in order to obtain its prices.
+This code open Dia's web page and navegate over all categories in order to obtain its prices.
 
 
 ## Author
