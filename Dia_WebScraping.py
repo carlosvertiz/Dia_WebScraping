@@ -61,13 +61,8 @@ def openPage(url, content = True):
     chrome_options = Options()
     chrome_options.add_argument("--start-maximized") 
 
-<<<<<<< HEAD
     #Chromedriver"s path, if you dont have it, you can download it in chromedriver page.
     chrome_driver_path = "C:/Users/mega_/OneDrive/Desktop/chromedriver.exe"
-=======
-    #Chromedriver's path, if you dont have it, you can download it in chromedriver page.
-    chrome_driver_path = 'chromedriver.exe'
->>>>>>> 36fc6cb5f066f2ffa5cd7efb14cf7fb63ee9f82f
     chrome_service = ChromeService(executable_path=chrome_driver_path)
 
     # Initialize chrome
